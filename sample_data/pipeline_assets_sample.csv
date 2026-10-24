@@ -1,0 +1,9 @@
+segment_id,name,stage,upstream_station_id,downstream_station_id,length_km,diameter_mm,material,installation_year,nominal_pressure_bar,nominal_flow_m3h,criticality,soil_condition,burial_depth_m,past_repair_count,last_inspection_date,nearby_excavation_risk,connected_reservoir_id
+TX-100,Raw Water Intake Line,Intake,MS-01,MS-02,4.2,1000,Steel,2012,4.2,2500.0,Critical,Moderate,2.2,0,2025-08-14,0,
+TX-101,Main High-Pressure Transmission Trunk,Transmission,MS-02,MS-03,6.8,900,Ductile Iron,2005,5.8,2400.0,Critical,Moderate,2.0,1,2025-11-02,0,
+TX-102,North Reservoir Feeder Main,Transmission,MS-03,MS-04,5.1,750,Ductile Iron,2008,4.8,1150.0,High,Non-corrosive,1.8,0,2026-02-19,0,RES-NORTH
+TX-103,South Valley Transmission Aqueduct,Transmission,MS-03,MS-05,8.4,800,Prestressed Concrete,1994,5.2,1250.0,Critical,Corrosive,2.1,3,2025-04-10,1,RES-SOUTH
+DN-201,Metro East Residential Sector Feeder,Distribution,MS-04,MS-06,3.6,500,HDPE,2018,3.8,620.0,Medium,Non-corrosive,1.4,0,2026-05-12,0,
+DN-202,Commercial District Metered Area,Distribution,MS-06,MS-07,2.9,400,Ductile Iron,2010,3.6,480.0,High,Moderate,1.5,1,2025-09-30,0,
+DN-203,Industrial Zone Heavy Flow Loop,Distribution,MS-05,MS-08,4.5,600,Steel,2002,4.1,720.0,High,Corrosive,1.6,2,2025-07-21,0,
+DN-204,Old Quarter Heritage Reticulation,Distribution,MS-07,MS-09,3.2,300,Cast Iron,1978,3.2,280.0,Critical,Corrosive,1.2,5,2024-10-15,1,

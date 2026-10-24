@@ -1,0 +1,21 @@
+timestamp,station_id,segment_id,sensor_type,value,unit,health_status,is_synthetic,flag_notes
+2026-10-24 08:00:00,MS-01,TX-100,PRESSURE,4.18,bar,HEALTHY,1,Raw water intake pump pressure
+2026-10-24 08:00:00,MS-01,TX-100,FLOW,2504.2,m³/h,HEALTHY,1,Inlet flow meter
+2026-10-24 08:00:00,MS-02,TX-100,ACOUSTIC,15.2,Index (0-100),HEALTHY,1,Normal background acoustic
+2026-10-24 08:00:00,MS-02,TX-100,VIBRATION,1.05,mm/s,HEALTHY,1,Baseline vibration
+2026-10-24 08:00:00,MS-02,TX-101,PRESSURE,5.81,bar,HEALTHY,1,WTP high lift discharge
+2026-10-24 08:00:00,MS-02,TX-101,FLOW,2402.0,m³/h,HEALTHY,1,Trunk flow
+2026-10-24 08:00:00,MS-03,TX-101,ACOUSTIC,16.8,Index (0-100),HEALTHY,1,Normal junction acoustic
+2026-10-24 08:00:00,MS-03,TX-101,VIBRATION,1.12,mm/s,HEALTHY,1,Normal trunk vibration
+2026-10-24 08:00:00,MS-03,TX-102,PRESSURE,4.78,bar,HEALTHY,1,Ridge branch pressure
+2026-10-24 08:00:00,MS-03,TX-102,FLOW,1148.5,m³/h,HEALTHY,1,North branch flow
+2026-10-24 08:00:00,MS-04,TX-102,ACOUSTIC,14.5,Index (0-100),HEALTHY,1,Normal acoustic
+2026-10-24 08:00:00,MS-04,TX-102,VIBRATION,0.95,mm/s,HEALTHY,1,Normal vibration
+2026-10-24 08:00:00,MS-03,TX-103,PRESSURE,5.18,bar,HEALTHY,1,South branch pressure
+2026-10-24 08:00:00,MS-03,TX-103,FLOW,1253.0,m³/h,HEALTHY,1,South trunk flow
+2026-10-24 08:00:00,MS-05,TX-103,ACOUSTIC,17.2,Index (0-100),HEALTHY,1,Normal acoustic
+2026-10-24 08:00:00,MS-05,TX-103,VIBRATION,1.18,mm/s,HEALTHY,1,Normal vibration
+2026-10-24 08:00:00,MS-07,DN-204,PRESSURE,2.54,bar,HEALTHY,1,Heritage line depressed
+2026-10-24 08:00:00,MS-07,DN-204,FLOW,318.5,m³/h,HEALTHY,1,Excessive flow loss
+2026-10-24 08:00:00,MS-09,DN-204,ACOUSTIC,62.4,Index (0-100),HEALTHY,1,Elevated acoustic hiss
+2026-10-24 08:00:00,MS-09,DN-204,VIBRATION,3.25,mm/s,HEALTHY,1,High vibration RMS

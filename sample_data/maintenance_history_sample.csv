@@ -1,0 +1,5 @@
+segment_id,inspection_date,inspector_name,physical_condition_observed,leak_detected,soil_moisture_level,ground_movement_signs,cathodic_protection_status,actions_taken,recommendations
+DN-204,2024-10-15,Marcus Vance (Lead Inspector),Visible exterior tuberculation and graphitic softening on 300mm cast iron main,0,Damp,0,Absent,Applied surface epoxy wrap to minor seepage joint,Plan replacement of section under capital rehabilitation program
+TX-103,2025-04-10,Elena Rostova,Prestressed concrete cylinder pipe inspected at air valve pit. Minor surface microcracks.,0,Dry,0,Good,Repacked air release valve seat,Monitor line pressure transients closely
+TX-101,2025-11-02,David Chen,Ductile iron trunk main sound. Flange bolts tightened at chamber MS-02,0,Dry,0,Good,Replaced gasket on bypass leg,Routine annual inspection interval maintained
+DN-202,2025-09-30,Sarah Al-Mansoor,Commercial sector PRV inspected. Pilot valve response calibrated.,0,Dry,0,Good,Calibrated pilot setpoint to 3.6 bar,Recheck PRV diaphragm in 12 months
